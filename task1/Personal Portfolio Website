@@ -387,22 +387,22 @@
 
         <div class="card-container">
             <div class="card">
-                <h3>📚 Reading</h3>
+                <h3> Reading</h3>
                 <p>Learning new things and exploring technology.</p>
             </div>
 
             <div class="card">
-                <h3>💻 Coding</h3>
+                <h3> Coding</h3>
                 <p>Practicing programming and creating websites.</p>
             </div>
 
             <div class="card">
-                <h3>🎵 Music</h3>
+                <h3> Music</h3>
                 <p>Listening to music during my free time.</p>
             </div>
 
             <div class="card">
-                <h3>🏏 Sports</h3>
+                <h3> Sports</h3>
                 <p>Playing games and participating in sports.</p>
             </div>
         </div>
@@ -443,17 +443,17 @@
 
         <div class="card-container">
             <div class="card">
-                <h3>🏆 Academic Learning</h3>
+                <h3> Academic Learning</h3>
                 <p>Developing knowledge in Computer Science Engineering.</p>
             </div>
 
             <div class="card">
-                <h3>💡 Project Development</h3>
+                <h3> Project Development</h3>
                 <p>Practicing website development through personal projects.</p>
             </div>
 
             <div class="card">
-                <h3>🚀 Skill Development</h3>
+                <h3> Skill Development</h3>
                 <p>Continuously improving programming and technical skills.</p>
             </div>
         </div>
@@ -478,15 +478,15 @@
         <h2 class="section-title">Contact Me</h2>
 
         <p>
-            📧 Email:
+             Email:
             <a href="mailto:yourmail@example.com">yourmail@example.com</a>
         </p>
 
-        <p>📱 Phone: Your Phone Number</p>
-        <p>📍 Location: Andhra Pradesh, India</p>
+        <p>Phone: Your Phone Number</p>
+        <p>Location: Andhra Pradesh, India</p>
 
         <p>
-            💼 LinkedIn:
+             LinkedIn:
             <a href="https://www.linkedin.com/" target="_blank"
                rel="noopener noreferrer">
                 Visit My LinkedIn
